@@ -1,0 +1,41 @@
+D:\DBProjects\Hospital_System\Hospital_System\bin\Debug\Hospital_System.exe.config
+D:\DBProjects\Hospital_System\Hospital_System\bin\Debug\Hospital_System.exe
+D:\DBProjects\Hospital_System\Hospital_System\bin\Debug\Hospital_System.pdb
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csprojResolveAssemblyReference.cache
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Form1.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Properties.Resources.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csproj.GenerateResource.Cache
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.exe
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.pdb
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Login.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.SplashScreen.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Doctor.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Patient.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Nurse.resources
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Room.resources
+D:\DBProjects\Hospital_System\Hospital_System\bin\Debug\MySqlBackup.dll
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csproj.Hospital_System.exe.config
+D:\DBProjects\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Bill.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\Hospital_System.exe.config
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\Hospital_System.exe
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\Hospital_System.pdb
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\MySql.Data.dll
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\Google.Protobuf.dll
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\Renci.SshNet.dll
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\bin\Debug\MySql.Data.xml
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csproj.AssemblyReference.cache
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.exe.config
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Bill.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Doctor.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Form1.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Login.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Nurse.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Patient.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Properties.Resources.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.Room.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.SplashScreen.resources
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csproj.GenerateResource.cache
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csproj.CoreCompileInputs.cache
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.exe
+D:\رابعة الترم الاول\DBA\المشروع\Hospital_System\Hospital_System\obj\Debug\Hospital_System.pdb
