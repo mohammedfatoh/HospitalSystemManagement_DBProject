@@ -27,6 +27,9 @@ Hospital Management System makes enable us to having beack up of Data in System 
 
 ![Screenshot (2314)](https://user-images.githubusercontent.com/65139875/172751259-3bb27295-fa2d-4052-9592-c1b88c4d311a.png)
 
+![Screenshot (2318)](https://user-images.githubusercontent.com/65139875/172751600-a136c15d-2d85-4eaa-9c2c-b54aba17a638.png)
+
+
 ![Screenshot (2315)](https://user-images.githubusercontent.com/65139875/172751282-1765de3f-c41c-47c8-ad75-e6814df7b9e8.png)
 
 
